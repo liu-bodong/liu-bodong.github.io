@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Hi, I am currently a CS undergraduate student at Cornell University. I am interested in Deep Learning and Reinforcement Learning. In my spare time, I enjoy reading and watching movies. For sports, I swim, play badminton, and fence!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[bl576@cornell.edu](mailto:bl576@cornell.edu)
